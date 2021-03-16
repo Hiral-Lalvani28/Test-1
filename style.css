@@ -1,0 +1,126 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    width:100%;
+    background-color: lightgray;
+    padding: 30px;
+}
+.h1
+{
+    width:50%;
+    background-color: lightgray;
+    padding: 30px;
+    margin:30px auto;
+}
+.slide1
+{
+    width:49.5%;
+    background-color: lightgray;
+    padding: 200px;
+    float: left;
+}
+.slide2
+{
+    width:49.5%;
+    background-color: lightgray;
+    padding: 200px;
+    float: right;
+}
+.clearfix
+{
+    zoom: 1;
+}
+.clearfix:after
+{
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.h2
+{
+    width:60%;
+    background-color: lightgray;
+    padding: 30px;
+    margin:30px auto;
+    
+}
+.gallary
+{
+    width:94%;
+    margin:0 auto;
+    border:0px solid black;
+}
+.gallary ul
+{
+    list-style: none;
+    width:100%;
+    text-align: center;
+}
+.gallary ul li
+{
+    display: inline-block;
+    width:24%;
+    background-color: lightgray;
+    padding: 90px;
+    
+}
+.h3
+{
+    width:70%;
+    background-color: lightgray;
+    padding: 30px;
+    margin:30px auto;
+    
+}
+.h4
+{
+    width:30%;
+    background-color: lightgray;
+    padding: 30px;
+    margin:30px auto;
+}
+.form
+{
+    width:40%;
+    margin:0 auto;
+    margin-bottom: 30px;
+    border: 0px solid black;
+}
+.fields
+{
+    width:100%;
+    background-color: lightgray;
+    padding: 30px;
+    margin-bottom: 5px;
+}
+.tfields
+{
+    width:100%;
+    background-color: lightgray;
+    padding: 80px;
+    margin-bottom: 5px;
+}
+.buttons1
+{
+    width:48%;
+    background-color: lightgray;
+    padding: 30px;
+    margin-bottom: 5px;
+    float: left;
+}
+.buttons2
+{
+    width:48%;
+    background-color: lightgray;
+    padding: 30px;
+    margin-bottom: 5px;
+    float: right;
+}
+
